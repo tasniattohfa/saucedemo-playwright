@@ -28,6 +28,7 @@ cd saucedemo-playwright
 npm install
 npx playwright install
 npx playwright test
+npx playwright test --headed  
 
 
 
